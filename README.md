@@ -1,17 +1,17 @@
-# Модуль для OpenCart версии 2.
+# Module for OpenCart version 2.
 
-- Заархивируйте все в архив .zip, например exchange_wmd.ocmod.zip
-- Далее нужно зайти в "дополнения" -> "установка дополнений" и загрузить файл exchange_wmd.ocmod.zip. 
-- Перейти в "дополнения" -> "менеджер дополнений" и нажать на кнопку "обновить" 
-- Далее перейти в  "дополнения" -> "модули" и установить модуль "Работа с WMD.ru через API". 
-- Установить права 777 на папку /image/catalog/wmd_import/
+- Zip everything into a .zip archive, for example exchange_wmd.ocmod.zip
+- Then you need to go to "add-ons" -> "install add-ons" and download the exchange_wmd.ocmod.zip file.
+- Go to "add-ons" -> "add-ons manager" and click on the "update" button
+- Then go to "add-ons" -> "modules" and install the module "Working with WMD.ru via API".
+- Set rights 777 to the folder / image / catalog / wmd_import /
 
-Для нормальной работы нужен curl.
+You need curl to work properly.
 
-По всем замечаниям, ошибкам, пожалуйста, обращайтесь через контактную форму https://www.wmd.ru/contacts.html. Даже если что-то не получилось или появилась ошибка, пожалуйста, сообщите об этом. 
+For all comments, errors, please contact via the contact form https://www.wmd.ru/contacts.html. Even if something didn't work out or an error appears, please report it.
 
-Рекомендуем обкатать предложенные модули в тестовом окружении, чтобы возникшие ошибки никак не могли повлиять на текущую статистику и содержимое Вашего сайта.
+We recommend that you test the proposed modules in a test environment so that the errors that have occurred could not affect the current statistics and content of your site in any way.
 
-Мы оставляем за собой исключительное право изменять, дополнять и аннулировать поддержку текущих модулей без предупреждения и без каких-либо обязательств.
+We reserve the exclusive right to change, supplement and revoke support for current modules without notice and without obligation.
 
-По вопросам усовершенствования модулей, так же можете обращаться через контактную форму.
+For questions about improving the modules, you can also contact through the contact form. 
